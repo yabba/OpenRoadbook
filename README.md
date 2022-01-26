@@ -16,3 +16,5 @@ Veteran/"Oldtimer" Rallye and motocycle rallye roadbooks are moving from paper t
 * creating SVG icons for traffic signs
 * creating some template files 
 * 
+
+See some samples of rallye roadbooks: https://metager.de/meta/meta.ger3?eingabe=Rallye+roadbook&focus=bilder&s=&d=&c=&l=&t=&a=&co=&f=&ff=&ft=&m=

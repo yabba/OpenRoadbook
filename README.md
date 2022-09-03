@@ -18,6 +18,7 @@ Veteran/"Oldtimer" Rallye and motocycle rallye roadbooks are moving from paper t
 * Definition of paper size
 * Definition for paper/off-line usage (printing etc.)
 * Definition for usage on digital devices like smartphone, tablet or others
-*
+* support information for creating editing apps for mobile & desktop devices
+* 
 
 See some samples of rallye roadbooks: https://metager.de/meta/meta.ger3?eingabe=Rallye+roadbook&focus=bilder&s=&d=&c=&l=&t=&a=&co=&f=&ff=&ft=&m=

@@ -15,6 +15,9 @@ Veteran/"Oldtimer" Rallye and motocycle rallye roadbooks are moving from paper t
 * creating SVG icons for the direction graphics
 * creating SVG icons for traffic signs
 * creating some template files 
-* 
+* Definition of paper size
+* Definition for paper/off-line usage (printing etc.)
+* Definition for usage on digital devices like smartphone, tablet or others
+*
 
 See some samples of rallye roadbooks: https://metager.de/meta/meta.ger3?eingabe=Rallye+roadbook&focus=bilder&s=&d=&c=&l=&t=&a=&co=&f=&ff=&ft=&m=

@@ -19,7 +19,7 @@ Veteran/"Oldtimer" Rallye and motocycle rallye roadbooks are moving from paper t
 * Definition for paper/off-line usage (printing etc.)
 * Definition for usage on digital devices like smartphone, tablet or others
 * support information for creating editing apps for mobile & desktop 
-* evaluation of the usage of LibreOffice as first-step editor
+* evaluation of the usage of LibreOffice (https://www.libreoffice.org) as first-step editor
 * 
 
 See some samples of rallye roadbooks: https://metager.de/meta/meta.ger3?eingabe=Rallye+roadbook&focus=bilder&s=&d=&c=&l=&t=&a=&co=&f=&ff=&ft=&m=

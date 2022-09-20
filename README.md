@@ -13,7 +13,9 @@ Veteran/"Oldtimer" Rallye and motocycle rallye roadbooks are moving from paper t
 
 ### ToDos
 * creating SVG icons for the direction graphics
+  * Wikimedia shows a sample: https://commons.wikimedia.org/wiki/File:Orientierungsrallye_Chinesenzeichen.svg?uselang=de
 * creating SVG icons for traffic signs
+  * Images from Wikimedia could be used: https://commons.wikimedia.org/w/index.php?search=verkehrszeichen+SVG&title=Special:MediaSearch&go=Seite&uselang=de&type=image
 * creating some template files 
 * Definition of paper size
 * Definition for paper/off-line usage (printing etc.)
